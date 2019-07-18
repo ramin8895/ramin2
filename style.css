@@ -1,0 +1,42 @@
+.other{
+ width: 1080px;
+ margin: auto;
+ padding: auto;
+
+}
+
+.black{
+ width: 800px;
+ height: auto;
+ float: left;
+ border-radius:25px;
+margin: 10px;
+}
+
+
+.name{
+  color: brown;
+ text-align: center;
+}
+
+
+
+.top{
+float:right;
+margin: 30px;
+
+}
+
+
+
+.ather{
+   text-align: center;
+   font-size: 18px;
+
+}
+
+.good{
+
+    text-align: center;
+
+}

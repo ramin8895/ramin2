@@ -1,0 +1,27 @@
+.black{
+    width: 680px;
+margin: auto;
+padding: auto;
+border: 1px solid wheat
+}
+
+
+.other{
+  text-align: center;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.down{
+  font-size: 20px;
+
+    text-align: center;
+}
+
+
+ .top{
+   text-align: center;
+
+
+ }
